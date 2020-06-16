@@ -1,6 +1,6 @@
 ## Property application
 
-Demo: [https://property.olja.kz](https://property.olja.kz).
+Demo: [http://property.priceler.ru/](http://property.priceler.ru/).
 
 ```bash
 composer update
