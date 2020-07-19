@@ -106,7 +106,7 @@
 </template>
 
 <script>
-    const api = 'http://hicaliber/api/search';
+    const api = 'http://property.priceler.ru/api/search';
     import axios from 'axios';
 
     export default {
